@@ -1,5 +1,3 @@
-# Antonio2
-
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-chno="30819" tvg-logo="http://-sid:0529118868a3c3f62b5423aec5c1be87e47ace23ead0fb96f431de2ba4b4c240@192.168.1.142/images/default_picon.png" tvg-id="1:0:19:7863:41A:1:C00000:0:0:0:" tvg-name="LA 1 HD",LA 1 HD
